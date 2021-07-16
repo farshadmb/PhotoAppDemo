@@ -41,6 +41,7 @@
 		F8C8CA5126A1BDDA009FEE66 /* RxSwift+Unwrap.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8CA4E26A1BDDA009FEE66 /* RxSwift+Unwrap.swift */; };
 		F8C8CA5226A1BDDA009FEE66 /* Single+Additionals.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8CA4F26A1BDDA009FEE66 /* Single+Additionals.swift */; };
 		F8C8CA5A26A1BE65009FEE66 /* AtomicWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8CA5926A1BE65009FEE66 /* AtomicWrapper.swift */; };
+		F8C8CA6A26A1C5AB009FEE66 /* AlbumItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8CA6926A1C5AB009FEE66 /* AlbumItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -106,6 +107,7 @@
 		F8C8CA4E26A1BDDA009FEE66 /* RxSwift+Unwrap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RxSwift+Unwrap.swift"; sourceTree = "<group>"; };
 		F8C8CA4F26A1BDDA009FEE66 /* Single+Additionals.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Single+Additionals.swift"; sourceTree = "<group>"; };
 		F8C8CA5926A1BE65009FEE66 /* AtomicWrapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AtomicWrapper.swift; sourceTree = "<group>"; };
+		F8C8CA6926A1C5AB009FEE66 /* AlbumItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumItem.swift; sourceTree = "<group>"; };
 		FC9EAF1EE9AC816A01DDB330 /* Pods-PhotoAppDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoAppDemoTests.release.xcconfig"; path = "Target Support Files/Pods-PhotoAppDemoTests/Pods-PhotoAppDemoTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -262,6 +264,7 @@
 		F8C8C9CA26A19DD0009FEE66 /* DataLayer */ = {
 			isa = PBXGroup;
 			children = (
+				F8C8CA6826A1C59B009FEE66 /* Models */,
 				F8C8CA6126A1C416009FEE66 /* Network */,
 			);
 			path = DataLayer;
@@ -371,6 +374,14 @@
 				F8C8CA0C26A1A58C009FEE66 /* Response */,
 			);
 			path = Network;
+			sourceTree = "<group>";
+		};
+		F8C8CA6826A1C59B009FEE66 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				F8C8CA6926A1C5AB009FEE66 /* AlbumItem.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -657,6 +668,7 @@
 				F8C8CA4026A1BD79009FEE66 /* Collection+Additionals.swift in Sources */,
 				F8C8CA5126A1BDDA009FEE66 /* RxSwift+Unwrap.swift in Sources */,
 				F88C527426A0777F00A51C61 /* AppDelegate.swift in Sources */,
+				F8C8CA6A26A1C5AB009FEE66 /* AlbumItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
