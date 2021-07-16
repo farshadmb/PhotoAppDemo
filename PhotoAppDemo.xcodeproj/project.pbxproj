@@ -262,10 +262,7 @@
 		F8C8C9CA26A19DD0009FEE66 /* DataLayer */ = {
 			isa = PBXGroup;
 			children = (
-				F8C8CA1326A1A58C009FEE66 /* Abstract */,
-				F8C8CA1026A1A58C009FEE66 /* Implementation */,
-				F8C8CA1726A1A58C009FEE66 /* Request */,
-				F8C8CA0C26A1A58C009FEE66 /* Response */,
+				F8C8CA6126A1C416009FEE66 /* Network */,
 			);
 			path = DataLayer;
 			sourceTree = "<group>";
@@ -363,6 +360,17 @@
 				F8C8CA4F26A1BDDA009FEE66 /* Single+Additionals.swift */,
 			);
 			path = RxSwift;
+			sourceTree = "<group>";
+		};
+		F8C8CA6126A1C416009FEE66 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				F8C8CA1326A1A58C009FEE66 /* Abstract */,
+				F8C8CA1026A1A58C009FEE66 /* Implementation */,
+				F8C8CA1726A1A58C009FEE66 /* Request */,
+				F8C8CA0C26A1A58C009FEE66 /* Response */,
+			);
+			path = Network;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
