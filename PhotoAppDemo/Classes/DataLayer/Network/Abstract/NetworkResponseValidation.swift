@@ -1,0 +1,31 @@
+//
+//  NetworkResponseValidation.swift
+//  PhotoAppDemo
+//
+//  Created by Farshad Mousalou on 7/16/21.
+//  Copyright © 2021 iFarshad. All rights reserved.
+
+import Foundation
+
+/**
+ <# Property Summery Here#>
+ */
+protocol NetworkResponseValidation {
+
+   /**
+    <# Property Summery Here#>
+    */
+   var statusCodes: Set<Int> { get }
+
+   /**
+    <# Property Summery Here#>
+    */
+   var contentTypes: [String] { get }
+}
+
+// MARK: - abstract default implementation
+extension NetworkResponseValidation {
+
+   var statusCodes: Set<Int> { Set(200..<300) }
+   var contentTypes: [String] { ["*/*","application/json"] }
+}
