@@ -29,6 +29,405 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 11,
+      "symbol": "Strings",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 13,
+      "symbol": "Strings.Global",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 15,
+      "symbol": "Strings.Global.cancel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 16,
+      "symbol": "Strings.Global.retry",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 17,
+      "symbol": "Strings.Global.continue",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 18,
+      "symbol": "Strings.Global.loading",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 19,
+      "symbol": "Strings.Global.popular",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 21,
+      "symbol": "Strings.Global.ok",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 22,
+      "symbol": "Strings.Global.error",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 23,
+      "symbol": "Strings.Global.appTitle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 26,
+      "symbol": "Strings.Errors",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 28,
+      "symbol": "Strings.Errors.APIResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 30,
+      "symbol": "Strings.Errors.APIResponse.code",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 34,
+      "symbol": "Strings.Errors.APIResponse.message",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 38,
+      "symbol": "Strings.Errors.APIResponse.localizedDescription",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Application/AppStrings.swift",
+      "line": 42,
+      "symbol": "Strings.Errors.APIResponse.unknown",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Abstract/NetworkRequest.swift",
+      "line": 11,
+      "symbol": "NetworkRequest",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Abstract/NetworkRequest.swift",
+      "line": 13,
+      "symbol": "NetworkRequest.validResponse",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Abstract/NetworkService.swift",
+      "line": 28,
+      "symbol": "NetworkService.DataDecoder",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Implementation/APIAuthenticatior.swift",
+      "line": 11,
+      "symbol": "APIAuthenticator",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Implementation/APIClientService.swift",
+      "line": 106,
+      "symbol": "queueName",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Request/APIEncodableRequest.swift",
+      "line": 77,
+      "symbol": "APIEncodableRequest.validResponse",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Request/APIParametersRequest.swift",
+      "line": 73,
+      "symbol": "APIParametersRequest.validResponse",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponse.swift",
+      "line": 31,
+      "symbol": "APIServerResponse.CodingKeys.status",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponse.swift",
+      "line": 32,
+      "symbol": "APIServerResponse.CodingKeys.code",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponse.swift",
+      "line": 33,
+      "symbol": "APIServerResponse.CodingKeys.message",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponse.swift",
+      "line": 34,
+      "symbol": "APIServerResponse.CodingKeys.errorMessage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseError.swift",
+      "line": 11,
+      "symbol": "APIServerResponseError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseError.swift",
+      "line": 12,
+      "symbol": "APIServerResponseError.code(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseError.swift",
+      "line": 13,
+      "symbol": "APIServerResponseError.message(code:message:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseError.swift",
+      "line": 14,
+      "symbol": "APIServerResponseError.unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseError.swift",
+      "line": 17,
+      "symbol": "APIServerResponseError",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseError.swift",
+      "line": 23,
+      "symbol": "APIServerResponseError.errorDes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseError.swift",
+      "line": 28,
+      "symbol": "APIServerResponseError",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseError.swift",
+      "line": 30,
+      "symbol": "APIServerResponseError.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseError.swift",
+      "line": 40,
+      "symbol": "APIServerResponseError.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseStatus.swift",
+      "line": 11,
+      "symbol": "APIServerResponseStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseStatus.swift",
+      "line": 24,
+      "symbol": "APIServerResponseStatus.success",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Response/APIServerResponseStatus.swift",
+      "line": 25,
+      "symbol": "APIServerResponseStatus.failure",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Extensions/Foundation/DateFormatter+Extension.swift",
+      "line": 13,
+      "symbol": "DateFormatter.standardFormatter",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Extensions/Foundation/DateFormatter+Extension.swift",
+      "line": 26,
+      "symbol": "DateFormatter.currentZoneFormatter",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Extensions/Foundation/DispatchQueue+Additional.swift",
+      "line": 16,
+      "symbol": "DispatchQueue.QueueReference.queue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Extensions/RxSwift/Single+Additionals.swift",
+      "line": 16,
+      "symbol": "ObservableType.flatMapSingle(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Extensions/RxSwift/Single+Additionals.swift",
+      "line": 21,
+      "symbol": "ObservableType.compactFirst()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Extensions/RxSwift/Single+Additionals.swift",
+      "line": 29,
+      "symbol": "PrimitiveSequenceType.from(observable:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 13,
+      "symbol": "Atomic",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 15,
+      "symbol": "Atomic.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 16,
+      "symbol": "Atomic.lock",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 18,
+      "symbol": "Atomic.init(wrappedValue:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 22,
+      "symbol": "Atomic.wrappedValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 27,
+      "symbol": "Atomic.load()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 33,
+      "symbol": "Atomic.store(newValue:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 41,
+      "symbol": "UnfairLock",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 43,
+      "symbol": "UnfairLock._lock",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 45,
+      "symbol": "UnfairLock.lock()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 46,
+      "symbol": "UnfairLock.locked()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/AtomicWrapper.swift",
+      "line": 47,
+      "symbol": "UnfairLock.unlock()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/Utilites/Logger.swift",
       "line": 13,
       "symbol": "Logger",
