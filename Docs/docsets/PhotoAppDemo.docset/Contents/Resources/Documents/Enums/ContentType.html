@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Optional Extension Reference</title>
+    <title>ContentType Enumeration Reference</title>
     <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
     <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
     <meta charset='utf-8'>
@@ -13,8 +13,8 @@
     <script src="../js/jazzy.search.js" defer></script>
   </head>
   <body>
-    <a name="//apple_ref/swift/Extension/Optional" class="dashAnchor"></a>
-    <a title="Optional Extension Reference"></a>
+    <a name="//apple_ref/swift/Enum/ContentType" class="dashAnchor"></a>
+    <a title="ContentType Enumeration Reference"></a>
     <header>
       <div class="content-wrapper">
         <p><a href="../index.html">PhotoAppDemo Docs</a> (54% documented)</p>
@@ -29,7 +29,7 @@
       <p id="breadcrumbs">
         <a href="../index.html">PhotoAppDemo Reference</a>
         <img id="carat" src="../img/carat.png" />
-        Optional Extension Reference
+        ContentType Enumeration Reference
       </p>
     </div>
     <div class="content-wrapper">
@@ -221,34 +221,26 @@
       <article class="main-content">
         <section>
           <section class="section">
-            <h1>Optional</h1>
+            <h1>ContentType</h1>
               <div class="declaration">
                 <div class="language">
                   
-                  <pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Optional</span> <span class="k">where</span> <span class="kt">Wrapped</span><span class="p">:</span> <span class="kt">Collection</span></code></pre>
+                  <pre class="highlight swift"><code><span class="kd">enum</span> <span class="kt">ContentType</span> <span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="kt">Codable</span><span class="p">,</span> <span class="kt">Hashable</span></code></pre>
 
                 </div>
               </div>
-            
+            <p>Undocumented</p>
+
           </section>
           <section class="section task-group-section">
             <div class="task-group">
-              <div class="task-name-container">
-                <a name="/Available%20where%20%60Wrapped%60%3A%20%60Collection%60"></a>
-                <a name="//apple_ref/swift/Section/Available where `Wrapped`: `Collection`" class="dashAnchor"></a>
-                <div class="section-name-container">
-                  <a class="section-name-link" href="#/Available%20where%20%60Wrapped%60%3A%20%60Collection%60"></a>
-                  <h3 class="section-name"><p>Available where <code>Wrapped</code>: <code>Collection</code></p>
-</h3>
-                </div>
-              </div>
               <ul>
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/s:Sq12PhotoAppDemoSlRzlE7isEmptySbvp"></a>
-                    <a name="//apple_ref/swift/Property/isEmpty" class="dashAnchor"></a>
-                    <a class="token" href="#/s:Sq12PhotoAppDemoSlRzlE7isEmptySbvp">isEmpty</a>
+                    <a name="/s:12PhotoAppDemo11ContentTypeO9imageJpegyA2CmF"></a>
+                    <a name="//apple_ref/swift/Element/imageJpeg" class="dashAnchor"></a>
+                    <a class="token" href="#/s:12PhotoAppDemo11ContentTypeO9imageJpegyA2CmF">imageJpeg</a>
                     </code>
                   </div>
                   <div class="height-container">
@@ -256,14 +248,68 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Indicate the current optional Collection is empty or not.</p>
+                        <p>Undocumented</p>
 
                       </div>
                       <div class="declaration">
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">isEmpty</span><span class="p">:</span> <span class="kt">Bool</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+                          <pre class="highlight swift"><code><span class="k">case</span> <span class="n">imageJpeg</span> <span class="o">=</span> <span class="s">"image/jpeg"</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:12PhotoAppDemo11ContentTypeO8imagePNGyA2CmF"></a>
+                    <a name="//apple_ref/swift/Element/imagePNG" class="dashAnchor"></a>
+                    <a class="token" href="#/s:12PhotoAppDemo11ContentTypeO8imagePNGyA2CmF">imagePNG</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">case</span> <span class="n">imagePNG</span> <span class="o">=</span> <span class="s">"image/PNG"</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:12PhotoAppDemo11ContentTypeO8videoMP4yA2CmF"></a>
+                    <a name="//apple_ref/swift/Element/videoMP4" class="dashAnchor"></a>
+                    <a class="token" href="#/s:12PhotoAppDemo11ContentTypeO8videoMP4yA2CmF">videoMP4</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">case</span> <span class="n">videoMP4</span> <span class="o">=</span> <span class="s">"video/MP4"</span></code></pre>
 
                         </div>
                       </div>

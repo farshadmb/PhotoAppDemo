@@ -141,6 +141,286 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 11,
+      "symbol": "AlbumItem",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 13,
+      "symbol": "AlbumItem.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 14,
+      "symbol": "AlbumItem.userId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 15,
+      "symbol": "AlbumItem.mediaType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 16,
+      "symbol": "AlbumItem.filename",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 17,
+      "symbol": "AlbumItem.size",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 18,
+      "symbol": "AlbumItem.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 19,
+      "symbol": "AlbumItem.takenAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 20,
+      "symbol": "AlbumItem.guessedTakenAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 21,
+      "symbol": "AlbumItem.md5Sum",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 22,
+      "symbol": "AlbumItem.contentType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 23,
+      "symbol": "AlbumItem.video",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 24,
+      "symbol": "AlbumItem.thumbnailUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 25,
+      "symbol": "AlbumItem.downloadUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 26,
+      "symbol": "AlbumItem.resx",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 27,
+      "symbol": "AlbumItem.resy",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 29,
+      "symbol": "AlbumItem.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 30,
+      "symbol": "AlbumItem.CodingKeys.id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 31,
+      "symbol": "AlbumItem.CodingKeys.userId",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 32,
+      "symbol": "AlbumItem.CodingKeys.mediaType",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 33,
+      "symbol": "AlbumItem.CodingKeys.filename",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 34,
+      "symbol": "AlbumItem.CodingKeys.size",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 35,
+      "symbol": "AlbumItem.CodingKeys.createdAt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 36,
+      "symbol": "AlbumItem.CodingKeys.takenAt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 37,
+      "symbol": "AlbumItem.CodingKeys.guessedTakenAt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 38,
+      "symbol": "AlbumItem.CodingKeys.md5Sum",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 39,
+      "symbol": "AlbumItem.CodingKeys.contentType",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 40,
+      "symbol": "AlbumItem.CodingKeys.video",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 41,
+      "symbol": "AlbumItem.CodingKeys.thumbnailUrl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 42,
+      "symbol": "AlbumItem.CodingKeys.downloadUrl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 43,
+      "symbol": "AlbumItem.CodingKeys.resx",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 44,
+      "symbol": "AlbumItem.CodingKeys.resy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 54,
+      "symbol": "ContentType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 55,
+      "symbol": "ContentType.imageJpeg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 56,
+      "symbol": "ContentType.imagePNG",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 57,
+      "symbol": "ContentType.videoMP4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 60,
+      "symbol": "MediaType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 61,
+      "symbol": "MediaType.image",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 62,
+      "symbol": "MediaType.video",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Models/AlbumItem.swift",
+      "line": 65,
+      "symbol": "Album",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/runner/work/PhotoAppDemo/PhotoAppDemo/PhotoAppDemo/Classes/DataLayer/Network/Abstract/NetworkRequest.swift",
       "line": 11,
       "symbol": "NetworkRequest",
