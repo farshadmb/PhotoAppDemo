@@ -7,3 +7,19 @@
 //
 
 import Foundation
+import Alamofire
+import RxSwift
+import RxCocoa
+
+/**
+ The `SharedAlbumRepository` protocol.
+ */
+protocol SharedAlbumRepository: AnyObject {
+
+    /**
+     Fetch Album for given key id.
+     - Parameter id: the `String` key id to look up and fetch Album
+     */
+    func fetchAlbum(forIdentifier id: String) -> Observable<Album>
+
+}
