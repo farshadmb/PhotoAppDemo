@@ -42,6 +42,8 @@
 		F8C8CA5226A1BDDA009FEE66 /* Single+Additionals.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8CA4F26A1BDDA009FEE66 /* Single+Additionals.swift */; };
 		F8C8CA5A26A1BE65009FEE66 /* AtomicWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8CA5926A1BE65009FEE66 /* AtomicWrapper.swift */; };
 		F8C8CA6A26A1C5AB009FEE66 /* AlbumItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8CA6926A1C5AB009FEE66 /* AlbumItem.swift */; };
+		F8C8CA7926A1D3EC009FEE66 /* SharedAlbumRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8CA7826A1D3EC009FEE66 /* SharedAlbumRepository.swift */; };
+		F8C8CA8126A1D4C2009FEE66 /* SharedAlbumRespository.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8CA8026A1D4C2009FEE66 /* SharedAlbumRespository.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -108,6 +110,8 @@
 		F8C8CA4F26A1BDDA009FEE66 /* Single+Additionals.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Single+Additionals.swift"; sourceTree = "<group>"; };
 		F8C8CA5926A1BE65009FEE66 /* AtomicWrapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AtomicWrapper.swift; sourceTree = "<group>"; };
 		F8C8CA6926A1C5AB009FEE66 /* AlbumItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumItem.swift; sourceTree = "<group>"; };
+		F8C8CA7826A1D3EC009FEE66 /* SharedAlbumRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedAlbumRepository.swift; sourceTree = "<group>"; };
+		F8C8CA8026A1D4C2009FEE66 /* SharedAlbumRespository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedAlbumRespository.swift; sourceTree = "<group>"; };
 		FC9EAF1EE9AC816A01DDB330 /* Pods-PhotoAppDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoAppDemoTests.release.xcconfig"; path = "Target Support Files/Pods-PhotoAppDemoTests/Pods-PhotoAppDemoTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -257,6 +261,7 @@
 		F8C8C9C826A19DD0009FEE66 /* Domain */ = {
 			isa = PBXGroup;
 			children = (
+				F8C8CA8026A1D4C2009FEE66 /* SharedAlbumRespository.swift */,
 			);
 			path = Domain;
 			sourceTree = "<group>";
@@ -264,6 +269,7 @@
 		F8C8C9CA26A19DD0009FEE66 /* DataLayer */ = {
 			isa = PBXGroup;
 			children = (
+				F8C8CA7726A1D22E009FEE66 /* Repositories */,
 				F8C8CA6826A1C59B009FEE66 /* Models */,
 				F8C8CA6126A1C416009FEE66 /* Network */,
 			);
@@ -382,6 +388,14 @@
 				F8C8CA6926A1C5AB009FEE66 /* AlbumItem.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		F8C8CA7726A1D22E009FEE66 /* Repositories */ = {
+			isa = PBXGroup;
+			children = (
+				F8C8CA7826A1D3EC009FEE66 /* SharedAlbumRepository.swift */,
+			);
+			path = Repositories;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -648,6 +662,7 @@
 				F8C8CA4226A1BD79009FEE66 /* String+EmptyChecker.swift in Sources */,
 				F8C8C9FE26A19F63009FEE66 /* AppConfig.swift in Sources */,
 				F8C8CA3E26A1BD79009FEE66 /* DispatchQueue+Additional.swift in Sources */,
+				F8C8CA7926A1D3EC009FEE66 /* SharedAlbumRepository.swift in Sources */,
 				F8C8CA2626A1A58C009FEE66 /* HTTPResponseValidation.swift in Sources */,
 				F8C8CA4326A1BD79009FEE66 /* Result+Extension.swift in Sources */,
 				F8C8CA1D26A1A58C009FEE66 /* APIServerResponseError.swift in Sources */,
@@ -660,6 +675,7 @@
 				F8C8CA2226A1A58C009FEE66 /* NetworkResponseValidation.swift in Sources */,
 				F8C8CA2726A1A58C009FEE66 /* APIEncodableRequest.swift in Sources */,
 				F8C8CA5026A1BDDA009FEE66 /* AnyPublisher+Helper.swift in Sources */,
+				F8C8CA8126A1D4C2009FEE66 /* SharedAlbumRespository.swift in Sources */,
 				F8C8CA1E26A1A58C009FEE66 /* APIServerResponseStatus.swift in Sources */,
 				F8C8CA2F26A1BCB0009FEE66 /* AppStrings.swift in Sources */,
 				F8C8CA4126A1BD79009FEE66 /* DateFormatter+Extension.swift in Sources */,

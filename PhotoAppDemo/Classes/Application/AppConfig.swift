@@ -16,6 +16,6 @@ struct AppConfig {
     static let APIKey = ""
 
     // swiftlint:disable:next force_unwrapping
-    static let baseURL = URL(string: "")!
+    static let baseURL = URL(string: "https://api1.kiliaro.com")!
 
 }
