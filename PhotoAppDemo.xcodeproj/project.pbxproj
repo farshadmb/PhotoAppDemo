@@ -252,6 +252,7 @@
 				F88C526D26A0777F00A51C61 /* Frameworks */,
 				F88C526E26A0777F00A51C61 /* Resources */,
 				6324D7D1C83911AC47465B49 /* [CP] Embed Pods Frameworks */,
+				F8C8CA0226A1A0C6009FEE66 /* Swiftlint Runner */,
 			);
 			buildRules = (
 			);
@@ -471,6 +472,24 @@
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PhotoAppDemo-PhotoAppDemoUITests/Pods-PhotoAppDemo-PhotoAppDemoUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
+		};
+		F8C8CA0226A1A0C6009FEE66 /* Swiftlint Runner */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Swiftlint Runner";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\nif which swiftlint >/dev/null; then\n    swiftlint autocorrect\n    swiftlint \nelif which \"${PODS_ROOT}/SwiftLint/swiftlint\" >/dev/null; then\n    echo \"${PODS_ROOT}/SwiftLint/swiftlint autocorrect\"\n    echo \"${PODS_ROOT}/SwiftLint/swiftlint\"\nelse\n    echo \"warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint\"\nfi\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
